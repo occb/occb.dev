@@ -2,3 +2,9 @@ baseURL = "https://occb.dev/"
 languageCode = "en-us"
 title = "Olli On Tour"
 theme = "occb"
+
+[params]
+    description = "My site description"
+
+[build]
+  writeStats = true
