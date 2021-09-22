@@ -1,7 +1,7 @@
 ---
 title: "Post Test Title"
 date: 2021-08-18T20:12:35+02:00
-slug: 'post2'
+slug: 'post1'
 draft: false
 ---
 
