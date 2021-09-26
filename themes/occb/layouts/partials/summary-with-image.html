@@ -1,23 +1,22 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
+<article>
+
+      <div class="relative overflow-hidden img h-full w-full transform transition duration-500 hover:scale-105">
+
       {{ if $featured_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
         {{ $featured_image := (trim $featured_image "/") | absURL }}
-        <div class="hover:scale-105">
-          <a href="{{.RelPermalink}}" class="db grow">
-            <img src="{{ $featured_image }}" class="img hover:scale-105" alt="image from {{ .Title }}">
-          </a>
-        </div>
+        
+          
+            <img src="{{ $featured_image }}" class="" alt="image from {{ .Title }}">
+            <div class="absolute flex flex-col inset-0 items-center justify-center">
+              <h3>
+                <a href="{{.RelPermalink}}" class="text-white text-2xl">
+                  {{ .Title }}
+                </a>
+              </h3>
+             </div>
       {{ end }}
-      <div class="absolute w-100{{ if $featured_image }} w-60-ns pl3-ns{{ end }} justify-center">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="{{.RelPermalink}}" class="text-white dim link justify-center">
-            {{ .Title }}
-            </a>
-        </h1>
-       </div>
-    </div>
+    
   </div>
 </article>
