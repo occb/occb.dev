@@ -20,9 +20,15 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
+      
+      - name: Setup NPM
+        uses: actions/setup-node@v2
+
+      - name: Setup Postprocessors
+        run: npm install
 
       - name: Build
-        run: hugo --minify
+        run: hugo -D --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
