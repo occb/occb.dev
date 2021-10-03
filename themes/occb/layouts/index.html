@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article class="text-center text-gray-700">
-    <h2 class="font-serif font-extralight text-5xl text-gray-500">{{ .Title }}</h2>
+    <h2 class="font-serif font-extralight text-5xl text-gray-500 mb-8">{{ .Title }}</h2>
     {{ .Content }}
 </article>
 
@@ -14,7 +14,7 @@
     {{/* Derive the section name  */}}
     {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3  lg:grid-cols-4 gap-4">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 lg:grid-cols-4 gap-4">
       {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
        {{ with .Site.GetPage "section" $section_name }}
           <!-- <h1 class="flex-none">
