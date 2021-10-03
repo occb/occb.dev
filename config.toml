@@ -3,14 +3,6 @@ languageCode = "en-us"
 title = "Olli On Tour"
 theme = "occb"
 
-[build]
-  writeStats = true
-
-theme = "hugo-theme-tailwindcss-starter"
-languageCode = "en-us"
-baseurl = "http://example.com/"
-title = "Hugo Tailwindcss Starter"
-
 author = "Dirk Olbrich"
 copyright = "Copyright © 2019, Dirk Olbrich, all rights reserved."
 
@@ -28,3 +20,9 @@ copyright = "Copyright © 2019, Dirk Olbrich, all rights reserved."
 [markup]
   [markup.highlight]
     style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
+[build]
+  writeStats = true

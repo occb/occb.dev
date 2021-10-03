@@ -3,19 +3,19 @@
 
 name = "occb"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
+licenselink = "https://github.com/occb/occb.dev/blob/master/themes/occb/LICENSE"
+description = "A Hugo theme using Tailwind CSS."
 homepage = "https://occb.dev/"
-tags = []
+tags = ["Hugo", "Tailwind CSS", "theme", "blogdown"]
 features = []
-min_version = "0.41"
+min_version = "0.69"
 
 [author]
   name = "Oliver Becker"
-  homepage = ""
+  homepage = "https://occb.dev/"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "dirkolbrich"
+  homepage = "https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter"
+  repo = "https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter"
