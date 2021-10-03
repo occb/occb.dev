@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Olli On Tour"
 theme = "occb"
 
+copyright = "2020-{year}"
+
 [params]
   favicon = "favicon.ico"
 
