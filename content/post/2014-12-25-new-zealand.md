@@ -1,8 +1,8 @@
 ---
-title: "Post Test Title"
-date: 2021-08-18T20:12:35+02:00
-slug: 'post1'
+title: "2014: New Zealand"
+date: 2014-08-18T20:12:35+02:00
 draft: false
+featured_image: "https://res.cloudinary.com/occbdev/image/upload/t_occbdev_gallery_teaser/images/travel/2014/new-zealand/DSC_1044.jpg"
 ---
 
 # H1 level title
