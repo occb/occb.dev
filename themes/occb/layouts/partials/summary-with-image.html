@@ -1,6 +1,6 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 
-<a href="#" class="block relative overflow-hidden">
+<a href="{{.RelPermalink}}" class="block relative overflow-hidden">
   {{ if $featured_image }} 
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}} 
   {{ $featured_image := (trim $featured_image "/") | absURL }}
@@ -22,7 +22,6 @@
     "
   >
     <h3 class="text-white text-3xl p-5 text-center">
-      <!-- <a href="{{.RelPermalink}}" class="text-white text-2xl"> -->
       {{ .Title }}
     </h3>
   </div>

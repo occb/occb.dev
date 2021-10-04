@@ -96,6 +96,7 @@
       "lg:hidden",
       "lg:mx-24",
       "lg:prose-lg",
+      "max-w-none",
       "mb-16",
       "mb-4",
       "mb-8",
@@ -179,7 +180,9 @@
       "licence",
       "nav-menu",
       "nav-toggle",
+      "second-level-title",
       "show-button",
+      "top-level-title",
       "travel-pictures"
     ]
   }
