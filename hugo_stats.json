@@ -174,10 +174,12 @@
       "z-50"
     ],
     "ids": [
+      "a",
       "avatar",
       "h1-level-title",
       "h2-level-title",
       "h3-level-title",
+      "heading",
       "hide-button",
       "icons",
       "licence",
@@ -185,6 +187,7 @@
       "nav-toggle",
       "second-level-title",
       "show-button",
+      "tbd",
       "top-level-title",
       "travel-pictures"
     ]
