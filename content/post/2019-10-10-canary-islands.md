@@ -17,19 +17,19 @@ categories: ["travel", "europe"]
 
 ### El Hierro
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-03.jpg" title="On the way near Punta de los Bajones, El Hierro" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-04.jpg" title="On the way near Punta de Malpais, El Hierro" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-12.jpg" title="On Ruta del Agua towars Ventejis mountain, El Hierro" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-20.jpg" title="Sunset, viewed from La Frontera, El Hierro" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-21.jpg" title="Dragon tree near Tigaday, El Hierro" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-22.jpg" title="View towards Tibataje near El Lunchón, El Hierro" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-23.jpg" title="View above clouds, on top of the mountain near Ermita San Salvador, El Hierro" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-30.jpg" title="Piscina Natural La Maceta, El Hierro" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-03.jpg" title="On the way near Punta de los Bajones, El Hierro" loading="lazy">}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-04.jpg" title="On the way near Punta de Malpais, El Hierro" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-12.jpg" title="On Ruta del Agua towars Ventejis mountain, El Hierro" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-20.jpg" title="Sunset, viewed from La Frontera, El Hierro" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-21.jpg" title="Dragon tree near Tigaday, El Hierro" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-22.jpg" title="View towards Tibataje near El Lunchón, El Hierro" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-23.jpg" title="View above clouds, on top of the mountain near Ermita San Salvador, El Hierro" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-30.jpg" title="Piscina Natural La Maceta, El Hierro" loading="lazy" >}}
 
 ### La Palma
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-38.jpg" title="Poris de Candelaria, West Coast, La Palma" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-39.jpg" title="Playa de la Veta, West Coast, La Palma" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-43.jpg" title="Stone wall in La Caldera de Taburiente National Park, La Palma" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-48.jpg" title="Canary Island Pine forrest, La Caldera de Taburiente National Park, La Palma" >}}
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-49.jpg" title="View from Mirador Volcán de San Antonio towards the southern coast, La Palma" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-38.jpg" title="Poris de Candelaria, West Coast, La Palma" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-39.jpg" title="Playa de la Veta, West Coast, La Palma" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-43.jpg" title="Stone wall in La Caldera de Taburiente National Park, La Palma" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-48.jpg" title="Canary Island Pine forrest, La Caldera de Taburiente National Park, La Palma" loading="lazy" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/images/travel/2019/canary_islands/Kanaren-49.jpg" title="View from Mirador Volcán de San Antonio towards the southern coast, La Palma" loading="lazy" >}}
