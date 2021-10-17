@@ -25,13 +25,11 @@
       "main",
       "meta",
       "nav",
-      "ol",
       "p",
       "path",
       "polygon",
       "script",
       "span",
-      "strong",
       "style",
       "svg",
       "table",
@@ -174,21 +172,19 @@
       "z-50"
     ],
     "ids": [
-      "a",
       "avatar",
-      "h1-level-title",
-      "h2-level-title",
-      "h3-level-title",
+      "el-hierro",
       "heading",
       "hide-button",
       "icons",
+      "la-palma",
       "licence",
       "nav-menu",
       "nav-toggle",
+      "overview",
       "second-level-title",
       "show-button",
       "tbd",
-      "top-level-title",
       "travel-pictures"
     ]
   }
