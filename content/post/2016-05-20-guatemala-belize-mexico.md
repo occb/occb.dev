@@ -15,6 +15,7 @@ categories: ["travel", "middle america"]
 * I took diving classes beforehand and gained a PADI AOWD certification to explore some great spots here and in [Cuba](../2016-05-20-cuba).
 * A great mix of beautiful nature reserves, ruins of ancient cities, lively towns and cities.
 * You should feel comfortable with some different opinions about bathroom standards and procedures. 
+* Only visited the eastern part of Mexico, which was very touristy with lots of big hotels.
 
 ### Guatemala <a name="guatemala"></a>
 
