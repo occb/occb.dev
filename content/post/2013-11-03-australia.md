@@ -20,72 +20,72 @@ categories: ["travel", "oceania"]
 
 ### Tasmania <a name="tasmania"></a>
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster001.jpg" title="View near Devils Kitchen" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster001.jpg" title="View near Devils Kitchen" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster002.jpg" title="View near Devils Kitchen" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster002.jpg" title="View near Devils Kitchen" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0101.jpg" title="View of Boomer Island" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0101.jpg" title="View of Boomer Island" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster003.jpg" title="Beach on Maria Island" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster003.jpg" title="Beach on Maria Island" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster004.jpg" title="Painted Cliffs on Maria Island" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster004.jpg" title="Painted Cliffs on Maria Island" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0287.jpg" title="Old tree on Maria Island" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0287.jpg" title="Old tree on Maria Island" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Maria_Island.jpg" title="View from Fossil Cliffs, Maria Island" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Maria_Island.jpg" title="View from Fossil Cliffs, Maria Island" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster009.jpg" title="Beach in Bay of Fires" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster009.jpg" title="Beach in Bay of Fires" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0344.jpg" title="Wineglass Bay" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0344.jpg" title="Wineglass Bay" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0470.jpg" title="Halls Falls" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0470.jpg" title="Halls Falls" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Cradle_Mountain.jpg" title="Cradle Mountain" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Cradle_Mountain.jpg" title="Cradle Mountain" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Crater_Lake.jpg" title="Crater Lake" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Crater_Lake.jpg" title="Crater Lake" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0590.jpg" title="Hinking in Cradle Mountain-Lake St Clair National Park" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0590.jpg" title="Hinking in Cradle Mountain-Lake St Clair National Park" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0595.jpg" title="Small stream near Wombat Pools" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0595.jpg" title="Small stream near Wombat Pools" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0638.jpg" title="Wombat Pools" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0638.jpg" title="Wombat Pools" loading="lazy" glightboxclass="glightbox">}}
 
 ### Melbourne <a name="melbourne"></a>
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0300.jpg" title="Resting in the Royal Botanic Gardens Victoria" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0300.jpg" title="Resting in the Royal Botanic Gardens Victoria" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0493.jpg" title="Coat of arms of Australia, Melbourne Museum" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0493.jpg" title="Coat of arms of Australia, Melbourne Museum" loading="lazy" glightboxclass="glightbox">}}
 
 ### Great Ocean Road <a name="gor"></a>
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Razorback.jpg" title="The Razorback" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Razorback.jpg" title="The Razorback" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Wombat_Pool.jpg" title="Wombat Pool" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Wombat_Pool.jpg" title="Wombat Pool" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0036.jpg" title="Great Otway National Park" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0036.jpg" title="Great Otway National Park" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0057-2.jpg" title="Cape Otway Lightstation" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0057-2.jpg" title="Cape Otway Lightstation" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0075.jpg" title="Walking near Cape Otway Lightstation" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0075.jpg" title="Walking near Cape Otway Lightstation" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0104.jpg" title="The Twelve Apostles" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0104.jpg" title="The Twelve Apostles" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0139.jpg" title="The Arch" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0139.jpg" title="The Arch" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0287-2.jpg" title="Koala in Halls Gap Zoo" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0287-2.jpg" title="Koala in Halls Gap Zoo" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Mt_Rouse.jpg" title="Mt. Rouse, near Grampians National Park" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Mt_Rouse.jpg" title="Mt. Rouse, near Grampians National Park" loading="lazy" glightboxclass="glightbox">}}
 
 ### Sydney <a name="sydney"></a>
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster011.jpg" title="Panoramic View of Sydney" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster011.jpg" title="Panoramic View of Sydney" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0361.jpg" title="Sydney Harbour" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0361.jpg" title="Sydney Harbour" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0491-2.jpg" title="Sydney Opera" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0491-2.jpg" title="Sydney Opera" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster010.jpg" title=" Jacaranda tree in Royal Botanic Garden" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/Poster010.jpg" title=" Jacaranda tree in Royal Botanic Garden" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0452.jpg" title="Rainbow lorikeet in Royal Botanic Garden" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0452.jpg" title="Rainbow lorikeet in Royal Botanic Garden" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0587.jpg" title="Manly Beach" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2013/australia/_DSC0587.jpg" title="Manly Beach" loading="lazy" glightboxclass="glightbox">}}

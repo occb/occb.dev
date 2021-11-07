@@ -19,50 +19,50 @@ categories: ["travel", "middle america"]
 
 ### Guatemala <a name="guatemala"></a>
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-015.jpg" title="Bus transport in Antigua Guatemala" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-015.jpg" title="Bus transport in Antigua Guatemala" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-026.jpg" title="Biotopo del Quetzal" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-026.jpg" title="Biotopo del Quetzal" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-034.jpg" title="Biotopo del Quetzal" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-034.jpg" title="Biotopo del Quetzal" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-043.jpg" title="San Agustín Lanquín" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-043.jpg" title="San Agustín Lanquín" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-050.jpg" title="Semuc Champey" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-050.jpg" title="Semuc Champey" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-055.jpg" title="Semuc Champey" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-055.jpg" title="Semuc Champey" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-059.jpg" title="Laguna de Lachuá" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-059.jpg" title="Laguna de Lachuá" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-061.jpg" title="Laguna de Lachuá" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-061.jpg" title="Laguna de Lachuá" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-076.jpg" title="Flores, Petén" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-076.jpg" title="Flores, Petén" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-079.jpg" title="Flores, Petén" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-079.jpg" title="Flores, Petén" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-089.jpg" title="Tikal" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-089.jpg" title="Tikal" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-095.jpg" title="Tikal" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-095.jpg" title="Tikal" loading="lazy" glightboxclass="glightbox">}}
 
 ### Belize <a name="belize"></a>
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-109.jpg" title="At the beach near the Airport of Caye Caulker" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-109.jpg" title="At the beach near the Airport of Caye Caulker" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-110.jpg" title="At the beach of Caye Caulker" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-110.jpg" title="At the beach of Caye Caulker" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/UCayeCaulker-014.jpg" title="Hermit crab seen during first test dive" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/UCayeCaulker-014.jpg" title="Hermit crab seen during first test dive" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-117.jpg" title="Enjoying the sunset at Caye Caulker" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-117.jpg" title="Enjoying the sunset at Caye Caulker" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-121.jpg" title="Enjoying the sunset at Caye Caulker" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-121.jpg" title="Enjoying the sunset at Caye Caulker" loading="lazy" glightboxclass="glightbox">}}
 
 ### Mexico <a name="mexico"></a>
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-132.jpg" title="Lizard in Tulum" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-132.jpg" title="Lizard in Tulum" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-137.jpg" title="Chichen Itza" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-137.jpg" title="Chichen Itza" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-154.jpg" title="Chichen Itza" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-154.jpg" title="Chichen Itza" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-156.jpg" title="Lizard at Cenote Zaci, Valladolid" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-156.jpg" title="Lizard at Cenote Zaci, Valladolid" loading="lazy" glightboxclass="glightbox">}}
 
-{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-166.jpg" title="Sunset on Isla Mujeres" >}}
+{{< figure src="https://res.cloudinary.com/occbdev/image/upload/t_inline_pic/images/travel/2016/guatemala-belize-mexico/Urlaub2016-166.jpg" title="Sunset on Isla Mujeres" loading="lazy" glightboxclass="glightbox">}}
