@@ -1,6 +1,6 @@
 ---
-title: "Travel broadens the mind."
+title: "“One must travel to learn.” – Mark Twain"
 date: 2021-08-18T20:20:12+02:00
-description: "Test description"
-draft: true
+description: "Travel index page"
+draft: false
 ---
